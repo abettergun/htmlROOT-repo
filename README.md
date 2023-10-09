@@ -1,4 +1,1 @@
-# My first GitHub Project
-This is my first GitHub project. I published this directly from visual studio code.
-
-First Edit!
+This is here for the purpose of learning HTML to prep myself for a career change. I hate working for Amazon and I want to be with my family more.
